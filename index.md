@@ -1,32 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Nicholas C. Burleigh's E-Portfolio
 
-You can use the [editor on GitHub](https://github.com/nickBurleigh1/ePortfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Project One:** Event Tracking app - The event tracking app showcases best practices for Software Engineering, and Database Priciples learned here at SNHU. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Event Tracking Repo](https://github.com/nickBurleigh1/Event_Tracking)
 
-### Markdown
+**Project Two** Daily Stock Summary - This client server application showcases what I have learned with data structures and algorithms. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Daily Stock Summary](https://github.com/nickBurleigh1/daily_stock_summary)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
