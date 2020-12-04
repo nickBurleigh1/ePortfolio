@@ -12,5 +12,7 @@ Narrative for [Software design and engineering](https://github.com/nickBurleigh1
 
 Narrative for [Algorithms and data structure](https://github.com/nickBurleigh1/daily_stock_summary/wiki/Algorithms-and-data-structure-Narrative)
 
+[Code Review](https://snhu-my.sharepoint.com/:v:/g/personal/nicholas_burleigh1_snhu_edu/ESPeFs1DCIFErm0KAuavjiABSkZIfROpan5IPt0z63o5Cw?email=j.conlan%40snhu.edu&e=Dj03SG)
+
 
 
