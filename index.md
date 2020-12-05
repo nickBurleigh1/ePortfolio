@@ -14,5 +14,4 @@ Narrative for [Algorithms and data structure](https://github.com/nickBurleigh1/d
 
 [Code Review](https://snhu-my.sharepoint.com/:v:/g/personal/nicholas_burleigh1_snhu_edu/ESPeFs1DCIFErm0KAuavjiABSkZIfROpan5IPt0z63o5Cw?email=j.conlan%40snhu.edu&e=Dj03SG)
 
-
-
+To view UML diagrams for both projects click on "View On GitHub" button at the top
